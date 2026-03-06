@@ -1,16 +1,21 @@
-## Hi there 👋
+**Hi, I'm Arjun 👋
 
-<!--
-**arjunganesan1903/arjunganesan1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Dayananda Sagar University
+🤖 AI/ML enthusiast exploring Computer Vision, NLP, and Generative AI
 
-Here are some ideas to get you started:
+Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Artificial Intelligence & Machine Learning
+
+Computer Vision
+
+Natural Language Processing
+
+Tech
+
+Python • TensorFlow • PyTorch • Scikit-learn • OpenCV • Git
+
+Beyond Tech
+
+🎨 Acrylic painting
+🎵 Hindustani classical flute**
